@@ -1,0 +1,11 @@
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.exe
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.deps.json
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.runtimeconfig.json
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.runtimeconfig.dev.json
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.dll
+C:\Users\Paweł\source\repos\Cw2\bin\Debug\netcoreapp3.1\Cw2.pdb
+C:\Users\Paweł\source\repos\Cw2\obj\Debug\netcoreapp3.1\Cw2.csprojAssemblyReference.cache
+C:\Users\Paweł\source\repos\Cw2\obj\Debug\netcoreapp3.1\Cw2.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Cw2\obj\Debug\netcoreapp3.1\Cw2.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Cw2\obj\Debug\netcoreapp3.1\Cw2.dll
+C:\Users\Paweł\source\repos\Cw2\obj\Debug\netcoreapp3.1\Cw2.pdb
